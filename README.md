@@ -1,0 +1,1 @@
+A simple Java program with which I won the P92 home programming competition. The task was to calculate from the record of the given chess games how many square steps the white and black queen made in total.
